@@ -1,0 +1,255 @@
+[02-Apr-2025 23:49:23 UTC] PHP Fatal error:  Uncaught Exception: Connection failed: Database error in /project/sandbox/user-workspace/WebAPI/core/DB.php:19
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/core/DB.php(25): DB->__construct()
+#1 /project/sandbox/user-workspace/WebAPI/api/auth.php(18): DB::getInstance()
+#2 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 19
+[03-Apr-2025 00:19:32 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:20:02 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:20:02 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /project/sandbox/user-workspace/WebAPI/test_login.php on line 10
+[03-Apr-2025 00:21:04 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:26:04 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:27:53 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:28:43 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:29:36 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:32:36 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:33:25 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:36:42 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:37:36 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:40:04 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:40:04 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /project/sandbox/user-workspace/WebAPI/test_login_endpoint.php on line 10
+[03-Apr-2025 00:41:43 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:42:58 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:44:20 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:47:55 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:49:03 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:52:38 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:53:35 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:57:47 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 00:58:52 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 01:02:37 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 01:03:39 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 01:08:53 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 01:08:53 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /project/sandbox/user-workspace/WebAPI/test_login_endpoint.php on line 10
+[03-Apr-2025 01:11:00 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 16:42:41 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 16:44:15 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 49
+[03-Apr-2025 16:51:19 UTC] PHP Warning:  Undefined array key "REQUEST_URI" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 16:51:19 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 16:54:28 UTC] PHP Warning:  Undefined array key "REQUEST_URI" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 16:54:28 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 16:56:28 UTC] PHP Warning:  Undefined array key "REQUEST_URI" in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 16:56:28 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /project/sandbox/user-workspace/WebAPI/config/config.php on line 43
+[03-Apr-2025 17:03:40 UTC] Login attempt - Email: admin@example.com
+[03-Apr-2025 17:03:40 UTC] User found: yes
+[03-Apr-2025 17:03:41 UTC] Password verification result: failed
+[03-Apr-2025 17:03:41 UTC] Login error: Invalid email or password
+[03-Apr-2025 17:16:48 UTC] Login attempt - Email: admin@gmail.com
+[03-Apr-2025 17:16:48 UTC] User found: no
+[03-Apr-2025 17:16:48 UTC] Login error: Invalid email or password
+[03-Apr-2025 17:17:27 UTC] Login attempt - Email: admin@example.com
+[03-Apr-2025 17:17:27 UTC] User found: yes
+[03-Apr-2025 17:17:27 UTC] Password verification result: success
+[03-Apr-2025 17:17:27 UTC] Login successful - User ID: 2
+[03-Apr-2025 17:20:51 UTC] Login attempt - Email: admin@example.com
+[03-Apr-2025 17:20:51 UTC] User found: yes
+[03-Apr-2025 17:20:51 UTC] Password verification result: success
+[03-Apr-2025 17:20:52 UTC] Login successful - User ID: 2
+[03-Apr-2025 17:23:03 UTC] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in /project/sandbox/user-workspace/WebAPI/admin/subject_actions.php:182) in /project/sandbox/user-workspace/WebAPI/core/helpers.php on line 104
+[03-Apr-2025 18:01:20 UTC] Login attempt - Email: admin@example.com
+[03-Apr-2025 18:01:20 UTC] User found: yes
+[03-Apr-2025 18:01:20 UTC] Password verification result: success
+[03-Apr-2025 18:01:20 UTC] Login successful - User ID: 1
+[03-Apr-2025 18:03:20 UTC] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in /project/sandbox/user-workspace/WebAPI/admin/subject_actions.php:182) in /project/sandbox/user-workspace/WebAPI/core/helpers.php on line 104
+[03-Apr-2025 18:07:40 UTC] Login attempt - Email: admin@example.com
+[03-Apr-2025 18:07:40 UTC] User found: yes
+[03-Apr-2025 18:07:40 UTC] Password verification result: success
+[03-Apr-2025 18:07:40 UTC] Login successful - User ID: 1
+[03-Apr-2025 18:07:40 UTC] PHP Fatal error:  Cannot redeclare isAdmin() (previously declared in /project/sandbox/user-workspace/WebAPI/core/helpers.php:75) in /project/sandbox/user-workspace/WebAPI/admin/includes/header.php on line 6
+[03-Apr-2025 18:31:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:32:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:33:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:33:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:34:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:34:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:34:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/settings.php:40
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/settings.php(40): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/settings.php on line 40
+[03-Apr-2025 18:34:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/settings.php:40
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/settings.php(40): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/settings.php on line 40
+[03-Apr-2025 18:35:07 UTC] PHP Warning:  Array to string conversion in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 102
+[03-Apr-2025 18:35:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:35:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/schedules.php:75
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(75): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/schedules.php on line 75
+[03-Apr-2025 18:42:49 UTC] PHP Fatal error:  Uncaught Exception: Database query failed in /project/sandbox/user-workspace/WebAPI/core/DB.php:73
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 73
+[03-Apr-2025 18:42:57 UTC] PHP Fatal error:  Uncaught Exception: Database query failed in /project/sandbox/user-workspace/WebAPI/core/DB.php:73
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 73
+[03-Apr-2025 18:56:26 UTC] PHP Fatal error:  Uncaught Exception: Database query failed in /project/sandbox/user-workspace/WebAPI/core/DB.php:73
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 73
+[03-Apr-2025 19:10:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:10:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:10:40 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:14:51 UTC] PHP Fatal error:  Uncaught Exception: Database query failed: SQLSTATE[HY000]: General error: 1 no such table: schedules in /project/sandbox/user-workspace/WebAPI/core/DB.php:69
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 69
+[03-Apr-2025 19:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:15:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:15:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:15:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:18:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:18:45 UTC] PHP Fatal error:  Uncaught Exception: Database query failed: SQLSTATE[HY000]: General error: 1 no such table: schedules in /project/sandbox/user-workspace/WebAPI/core/DB.php:69
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 69
+[03-Apr-2025 19:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::fetchAll() in /project/sandbox/user-workspace/WebAPI/admin/subjects.php:17
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/subjects.php on line 17
+[03-Apr-2025 19:21:07 UTC] PHP Fatal error:  Uncaught Exception: Database query failed: SQLSTATE[HY000]: General error: 1 no such table: schedules in /project/sandbox/user-workspace/WebAPI/core/DB.php:69
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 69
+[03-Apr-2025 19:24:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:24:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:24:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:27:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:27:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:27:04 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:28:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:28:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:28:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:31:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:32:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:32:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:32:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:38:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:38:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:38:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:38:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:38:27 UTC] PHP Fatal error:  Uncaught Exception: Database query failed: SQLSTATE[HY000]: General error: 1 no such table: schedules in /project/sandbox/user-workspace/WebAPI/core/DB.php:69
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 69
+[03-Apr-2025 19:38:28 UTC] PHP Fatal error:  Uncaught Exception: Database query failed: SQLSTATE[HY000]: General error: 1 no such table: schedules in /project/sandbox/user-workspace/WebAPI/core/DB.php:69
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/schedules.php(31): DB->query()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/core/DB.php on line 69
+[03-Apr-2025 19:38:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:38:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:38:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:41:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[03-Apr-2025 19:41:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[03-Apr-2025 19:41:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[03-Apr-2025 19:41:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: PDO::FETCH_KEY_PAIR fetch mode requires the result set to contain exactly 2 columns. in /project/sandbox/user-workspace/WebAPI/admin/settings.php:40
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/admin/settings.php(40): PDOStatement->fetchAll()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/admin/settings.php on line 40
+[04-Apr-2025 16:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendError() in /project/sandbox/user-workspace/WebAPI/api/auth.php:37
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/auth.php on line 37
+[04-Apr-2025 16:25:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getJsonInput() in /project/sandbox/user-workspace/WebAPI/api/auth.php:45
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/api/auth.php(27): handleLogin()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/auth.php on line 45
+[04-Apr-2025 16:53:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 13
+[04-Apr-2025 16:53:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 14
+[04-Apr-2025 16:53:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /project/sandbox/user-workspace/WebAPI/config/config.php on line 15
+[04-Apr-2025 16:56:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateToken() in /project/sandbox/user-workspace/WebAPI/api/auth.php:80
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/api/auth.php(27): handleLogin()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/auth.php on line 80
+[04-Apr-2025 17:03:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendResponse() in /project/sandbox/user-workspace/WebAPI/api/auth.php:100
+Stack trace:
+#0 /project/sandbox/user-workspace/WebAPI/api/auth.php(27): handleLogin()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/auth.php on line 100
+[04-Apr-2025 17:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /project/sandbox/user-workspace/WebAPI/api/assignments.php:29
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/assignments.php on line 29
+[04-Apr-2025 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function logError() in /project/sandbox/user-workspace/WebAPI/api/auth.php:40
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/WebAPI/api/auth.php on line 40
